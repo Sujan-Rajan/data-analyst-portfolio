@@ -10,7 +10,9 @@ Certified Data Analyst with experience in SQL, Python, Power BI, and Tableau...
 
 ## 🔹 Certifications
 - [Career Essentials in Data Analysis – Microsoft](#)
-- [Introduction to Data Analytics – Meta](#)
+- [Meta Data Analytics – Meta(Coursera)](#)
+- [Introduction to Data Analytics – SimpliLearn](#)
+- [Career Boost With Power BI – Exodus Experts](#)
 
 ## 🔹 Connect with Me
 - [LinkedIn](#)
