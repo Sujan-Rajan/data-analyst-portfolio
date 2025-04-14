@@ -11,10 +11,9 @@ Certified Data Analyst with experience in SQL, Python, Power BI, and Tableau...
 
 ## 🔹 Certifications
 - [Career Essentials in Data Analysis – Microsoft](#)
-- [Meta Data Analytics – Meta(Coursera)](file:///D:/Certificates/Meta%20Data%20Analyst.pdf)
+- [Meta Data Analytics – Meta(Coursera)](#)
 - [Introduction to Data Analytics – SimpliLearn](#)
 - [Career Boost With Power BI – Exodus Experts](#)
 
 ## 🔹 Connect with Me
-- [LinkedIn](#)
-- [Portfolio Website](#)
+- [LinkedIn](https://linkedin.com/in/sujanapal-m-r-79562632b)
