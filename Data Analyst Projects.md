@@ -4,7 +4,7 @@
 Certified Data Analyst with experience in SQL, Python, Power BI, and Tableau...
 
 ## 🔹 Projects
-- 📊 [Sales Dashboard – Power BI](Sales_Dashboard.png)
+- 📊 [Sales Dashboard – Power BI](https://github.com/Sujan-Rajan/Sales-Dashboard)
 - 🐍 [Python Data Cleaning Script](#)
 - 🧮 [SQL Analysis on Employee Database](#)
 
