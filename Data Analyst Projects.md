@@ -10,6 +10,9 @@ Certified Data Analyst with experience in SQL, Python, Power BI, and Tableau...
 -    [Tableau Superstore Sales Dashboard](https://github.com/Sujan-Rajan/Tableau-Superstore-Sales-Dashboard)
 
 ## 🔹 Certifications
+- ![Meta Badge]([https://your-badge-url-here](https://www.credly.com/badges/e34d26a8-30e3-4c2e-bb1f-c53e1f4b5665/public_url).png) **Meta Data Analyst Professional Certificate**  
+  [View Badge]([https://www.credly.com/badges/your-badge-link](https://www.credly.com/badges/e34d26a8-30e3-4c2e-bb1f-c53e1f4b5665/public_url))
+
 - [Career Essentials in Data Analysis – Microsoft](#)
 - [Meta Data Analytics – Meta(Coursera)](#)
 - [Introduction to Data Analytics – SimpliLearn](#)
