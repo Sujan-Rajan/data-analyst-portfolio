@@ -5,12 +5,13 @@ Certified Data Analyst with experience in SQL, Python, Power BI, and Tableau...
 
 ## 🔹 Projects
 - 📊 [Sales Dashboard – Power BI](https://github.com/Sujan-Rajan/Sales-Dashboard)
-- 🐍 [Python Data Cleaning Script](#)
-- 🧮 [SQL Analysis on Employee Database](#)
+- 🐍 [Python Sales Analysis](https://github.com/Sujan-Rajan/python-sales-analysis)
+- 🧮 [SQL Online Store Sales Analysis](https://github.com/Sujan-Rajan/sql-online-store-sales-analysis)
+-    [Tableau Superstore Sales Dashboard](https://github.com/Sujan-Rajan/Tableau-Superstore-Sales-Dashboard)
 
 ## 🔹 Certifications
 - [Career Essentials in Data Analysis – Microsoft](#)
-- [Meta Data Analytics – Meta(Coursera)](#)
+- [Meta Data Analytics – Meta(Coursera)](file:///D:/Certificates/Meta%20Data%20Analyst.pdf)
 - [Introduction to Data Analytics – SimpliLearn](#)
 - [Career Boost With Power BI – Exodus Experts](#)
 
